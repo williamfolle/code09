@@ -1,0 +1,6 @@
+"Address","Name","Installer type","IEC type","Size","Default value","Min","Max","Scale","Offset","Unit","Format","Installer accessLevel","Description","Note"
+"16384","var1","","INT","","0","","","1","0","","","Always visible","","",
+"16385","var10","","BOOL","","0","","","1","0","","","Always visible","","",
+"16386","var11","","BOOL","","0","","","1","0","","","Always visible","","",
+"16387","var12","","BOOL","","0","","","1","0","","","Always visible","","",
+"16388","var13","","BOOL","","0","","","1","0","","","Always visible","","",
